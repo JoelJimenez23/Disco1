@@ -1,0 +1,9 @@
+{
+    "name": "manage-events",
+    "author": "JoelJimenez23",
+    "version": "1.0.0",
+    "dependencies": {
+        "@aws-sdk/client-dynamodb": "^3.470.0",
+        "jsonwebtoken": "8.5.1"
+    }
+}

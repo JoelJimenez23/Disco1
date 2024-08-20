@@ -1,0 +1,10 @@
+{
+    "name": "test-user-disco",
+    "author": "JoelJimenez23",
+    "version": "1.0.0",
+    "dependencies": {
+        "aws-sdk": "^2.1511.0",
+        "bcryptjs": "2.4.3",
+        "jsonwebtoken": "8.5.1"
+    }
+}
